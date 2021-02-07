@@ -65,7 +65,7 @@ const StackIcons = props => {
   ];
 
   return (
-    <div className={classes.stack}>
+    /*<div className={classes.stack}>
       <h5 className={classes.header}>built with:</h5>
       <div className={classes.box}>
         {items.map(item => {
@@ -84,7 +84,7 @@ const StackIcons = props => {
           );
         })}
       </div>
-    </div>
+    </div>*/
   );
 };
 

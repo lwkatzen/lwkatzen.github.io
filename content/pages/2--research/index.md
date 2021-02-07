@@ -1,7 +1,17 @@
 ---
-title: Other GatsbyJs starters
-menuTitle: My starters
+title: Research
+menuTitle: Research
 ---
+
+This will host information on my research in the near future.
+
+### F-Singularities
+
+These are singularities on varieties or schemes which admit nice characterizations via the Frobenius endomorphism.
+
+### Old example crap
+
+The following is left over from the template I used to develop this site, and is kept for the moment to serve as an example as I continue to develop this site.
 
 [Personal**Blog**](https://github.com/greglobinski/gatsby-starter-personal-blog) is not my first [GatsbyJS](https://www.gatsbyjs.org/) starter.
 

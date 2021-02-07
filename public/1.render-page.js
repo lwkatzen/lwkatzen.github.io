@@ -485,9 +485,9 @@ exports.modules = {
 	
 	var _ExpandMore2 = _interopRequireDefault(_ExpandMore);
 	
-	var _avatar2 = __webpack_require__(442);
+	var _cutebot = __webpack_require__(442);
 	
-	var _avatar3 = _interopRequireDefault(_avatar2);
+	var _cutebot2 = _interopRequireDefault(_cutebot);
 	
 	var _config = __webpack_require__(441);
 	
@@ -604,7 +604,7 @@ exports.modules = {
 	      _react2.default.createElement(
 	        "div",
 	        { className: classes.avatar },
-	        _react2.default.createElement("img", { src: _avatar3.default, alt: "" })
+	        _react2.default.createElement("img", { src: _cutebot2.default, alt: "" })
 	      )
 	    ),
 	    _react2.default.createElement(

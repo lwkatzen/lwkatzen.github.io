@@ -1,20 +1,28 @@
 {
   "assetsByChunkName": {
     "path---customize-personal-blog-starter": [
-      "path---customize-personal-blog-starter-9f875858d9c2f117a511.js",
-      "path---customize-personal-blog-starter-9f875858d9c2f117a511.js.map"
+      "path---customize-personal-blog-starter-47016ab01c4a244c65c1.js",
+      "path---customize-personal-blog-starter-47016ab01c4a244c65c1.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-aa9570313651ef926b5a.js",
       "component---src-pages-index-js-aa9570313651ef926b5a.js.map"
     ],
+    "path---blog": [
+      "path---blog-75c315b473067797e8a3.js",
+      "path---blog-75c315b473067797e8a3.js.map"
+    ],
     "path---": [
-      "path----29e551c6e60ac82aba50.js",
-      "path----29e551c6e60ac82aba50.js.map"
+      "path----3da311a9947fa6b88c7d.js",
+      "path----3da311a9947fa6b88c7d.js.map"
     ],
     "component---src-pages-contact-js": [
       "component---src-pages-contact-js-3f94ae393631493eda2b.js",
       "component---src-pages-contact-js-3f94ae393631493eda2b.js.map"
+    ],
+    "path---notes": [
+      "path---notes-d83135f8d76c9bb34ff7.js",
+      "path---notes-d83135f8d76c9bb34ff7.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -25,12 +33,12 @@
       "path---research-b399d2e2cae37774a011.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-c17354deb919e30b02f8.js",
-      "component---src-layouts-index-js-c17354deb919e30b02f8.js.map"
+      "component---src-layouts-index-js-656969ad02416307b33b.js",
+      "component---src-layouts-index-js-656969ad02416307b33b.js.map"
     ],
     "path---install-personal-blog-starter": [
-      "path---install-personal-blog-starter-28c6f486d7c8dbf58895.js",
-      "path---install-personal-blog-starter-28c6f486d7c8dbf58895.js.map"
+      "path---install-personal-blog-starter-735f45d3d093f5a39ef3.js",
+      "path---install-personal-blog-starter-735f45d3d093f5a39ef3.js.map"
     ],
     "path---index": [
       "path---index-1316629f2faca1dc06d8.js",
@@ -41,14 +49,22 @@
       "component---src-pages-search-js-056ffa479514758e65cf.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-dbf953f22f47c9db3e29.js",
-      "path---hello-world-dbf953f22f47c9db3e29.js.map"
+      "path---hello-world-b4cb2258d1e86d33bb1f.js",
+      "path---hello-world-b4cb2258d1e86d33bb1f.js.map"
+    ],
+    "path---photos": [
+      "path---photos-8dec36c93fb72d3616bb.js",
+      "path---photos-8dec36c93fb72d3616bb.js.map"
     ],
     "commons": [
       "commons-507067db6b791455ecf9.js",
       "build-js-styles.css",
       "commons-507067db6b791455ecf9.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---teaching": [
+      "path---teaching-50770cfc86d9f95afcb7.js",
+      "path---teaching-50770cfc86d9f95afcb7.js.map"
     ],
     "path---success": [
       "path---success-a9b13286084c50494680.js",
@@ -59,21 +75,21 @@
       "path---contact-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-templates-post-template-js": [
-      "component---src-templates-post-template-js-2c8841c4160169363183.js",
-      "component---src-templates-post-template-js-2c8841c4160169363183.js.map"
+      "component---src-templates-post-template-js-fcf32d7de3bf2eae0d33.js",
+      "component---src-templates-post-template-js-fcf32d7de3bf2eae0d33.js.map"
     ],
     "path---setup-algolia-account": [
-      "path---setup-algolia-account-73e6145b593c76f90598.js",
-      "path---setup-algolia-account-73e6145b593c76f90598.js.map"
+      "path---setup-algolia-account-1c3bea15e571b9761bf7.js",
+      "path---setup-algolia-account-1c3bea15e571b9761bf7.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-e2df5f716beeeb2a262e.js",
+      "app-1117841b7e0262e7a907.js",
       "build-js-styles.css",
-      "app-e2df5f716beeeb2a262e.js.map",
+      "app-1117841b7e0262e7a907.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
