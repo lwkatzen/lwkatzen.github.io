@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Isaac Martin's Personal Site]]></title><description><![CDATA[It's just a personal website dude]]></description><link>https://lwkatzen.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 07 Feb 2021 08:06:31 GMT</lastBuildDate><item><title><![CDATA[Hello World]]></title><description><![CDATA[The  starter  uses a theme object so base customization is really easy. Find the   file. … Front-end web development To read the whole…]]></description><link>https://lwkatzen.github.io//Hello-World/</link><guid isPermaLink="false">https://lwkatzen.github.io//Hello-World/</guid><content:encoded>&lt;p&gt;The &lt;a href=&quot;/gatsby-starter-personal-blog/&quot;&gt;starter&lt;/a&gt; uses a theme object so base customization is really easy.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Isaac Martin's Personal Site]]></title><description><![CDATA[It's just a personal website dude]]></description><link>https://lwkatzen.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 07 Feb 2021 08:11:28 GMT</lastBuildDate><item><title><![CDATA[Hello World]]></title><description><![CDATA[The  starter  uses a theme object so base customization is really easy. Find the   file. … Front-end web development To read the whole…]]></description><link>https://lwkatzen.github.io//Hello-World/</link><guid isPermaLink="false">https://lwkatzen.github.io//Hello-World/</guid><content:encoded>&lt;p&gt;The &lt;a href=&quot;/gatsby-starter-personal-blog/&quot;&gt;starter&lt;/a&gt; uses a theme object so base customization is really easy.&lt;/p&gt;
 &lt;p&gt;Find the &lt;code class=&quot;language-text&quot;&gt;theme.js&lt;/code&gt; file.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
       &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;root
@@ -13,42 +13,7 @@
 &lt;p&gt;To read the whole instruction article - &lt;a href=&quot;https://dev.greglobinski.com/customize-personal-blog-starter/&quot;&gt;How to customize the personalBlog starter’s appearance&lt;/a&gt; - you have to move to &lt;a href=&quot;https://dev.greglobinski.com&quot;&gt;Front-end web development with Greg&lt;/a&gt; website.&lt;/p&gt;
 &lt;p&gt;…&lt;/p&gt;
 &lt;p&gt;Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/profile-pic-135cb03e657db923318cf4084f8c59af-b0247.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 115.12195121951218%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAXABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAMEBQH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQAC/9oADAMBAAIQAxAAAAGOtoc0z14poAljF5//xAAdEAEAAQMFAAAAAAAAAAAAAAACAQMSIgAEFCEz/9oACAEBAAEFAu7FLopu6STdWMTAONH03Kz5Ov/EABoRAQABBQAAAAAAAAAAAAAAAAARAQIDEkH/2gAIAQMBAT8Btx01Q4h//8QAGBEAAwEBAAAAAAAAAAAAAAAAABEhAQL/2gAIAQIBAT8B3qkFWM//xAAdEAACAQQDAAAAAAAAAAAAAAAAASECEBFBIjFx/9oACAEBAAY/AlQtmLT2yfCFk5S8Eat//8QAGxAAAwEBAAMAAAAAAAAAAAAAAREhADFRYcH/2gAIAQEAAT8hUg+DnFZiiJYm9RmtT6EEyQBA8mfMbcuHDS6uBLm//9oADAMBAAIAAwAAABAz1/7/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhQf/aAAgBAwEBPxCxeihRFeCD/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/EN5jdIFP/8QAHhABAAICAwADAAAAAAAAAAAAAQARITFBUXFhkfD/2gAIAQEAAT8Q1nfByO/qWdsi+cS0IAI/vmUJZUQ6O/WAVzuD2EN/TFvC2JxOAxrsOocMmc8sowJRVWk//9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
-        alt=&quot;unsplash.com&quot;
-        title=&quot;&quot;
-        src=&quot;/static/profile-pic-135cb03e657db923318cf4084f8c59af-78f2b.jpg&quot;
-        srcset=&quot;/static/profile-pic-135cb03e657db923318cf4084f8c59af-dce19.jpg 200w,
-/static/profile-pic-135cb03e657db923318cf4084f8c59af-c1413.jpg 400w,
-/static/profile-pic-135cb03e657db923318cf4084f8c59af-78f2b.jpg 800w,
-/static/profile-pic-135cb03e657db923318cf4084f8c59af-ab4c4.jpg 1200w,
-/static/profile-pic-135cb03e657db923318cf4084f8c59af-bc99b.jpg 1600w,
-/static/profile-pic-135cb03e657db923318cf4084f8c59af-b0247.jpg 1640w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./profile-pic.jpg&quot; alt=&quot;unsplash.com&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst.&lt;/p&gt;
 &lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.&lt;/p&gt;
 &lt;h3&gt;Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.&lt;/h3&gt;
