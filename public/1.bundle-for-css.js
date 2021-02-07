@@ -59,10 +59,6 @@ webpackJsonp([1],{
 
 	var _InfoText2 = _interopRequireDefault(_InfoText);
 
-	var _StackIcons = __webpack_require__(!(function webpackMissingModule() { var e = new Error("Cannot find module \"./StackIcons\""); e.code = 'MODULE_NOT_FOUND'; throw e; }()));
-
-	var _StackIcons2 = _interopRequireDefault(_StackIcons);
-
 	var _shared = __webpack_require__(401);
 
 	var _store = __webpack_require__(188);
@@ -75,7 +71,7 @@ webpackJsonp([1],{
 
 	function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
 
-	__webpack_require__(511);
+	__webpack_require__(510);
 
 	var styles = function styles(theme) {
 	  var _infoBox;
@@ -156,7 +152,7 @@ webpackJsonp([1],{
 	    return _react2.default.createElement(
 	      "aside",
 	      {
-	        className: classes.infoBox + " " + (navigatorPosition ? navigatorPosition : "") + " \n        " + (navigatorShape ? navigatorShape : "")
+	        className: classes.infoBox + " " + (navigatorPosition ? navigatorPosition : "") + "\n        " + (navigatorShape ? navigatorShape : "")
 	      },
 	      info && _react2.default.createElement(_InfoHeader2.default, {
 	        info: info,
@@ -169,7 +165,7 @@ webpackJsonp([1],{
 	        info && _react2.default.createElement(_InfoText2.default, { info: info }),
 	        _react2.default.createElement(_SocialIcons2.default, null),
 	        pages && _react2.default.createElement(_InfoMenu2.default, { pages: pages, linkOnClick: this.menulinkOnClick }),
-	        _react2.default.createElement(_StackIcons2.default, null)
+	        _react2.default.createElement(StackIcons, null)
 	      )
 	    );
 	  };

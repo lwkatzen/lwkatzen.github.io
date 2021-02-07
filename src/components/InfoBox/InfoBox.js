@@ -8,7 +8,6 @@ import SocialIcons from "./SocialIcons";
 import InfoMenu from "./InfoMenu";
 import InfoHeader from "./InfoHeader";
 import InfoText from "./InfoText";
-import StackIcons from "./StackIcons";
 
 import { featureNavigator, moveNavigatorAside } from "./../../utils/shared";
 import { setNavigatorPosition, setNavigatorShape } from "../../state/store";
@@ -71,7 +70,7 @@ class InfoBox extends React.Component {
 
     return (
       <aside
-        className={`${classes.infoBox} ${navigatorPosition ? navigatorPosition : ""} 
+        className={`${classes.infoBox} ${navigatorPosition ? navigatorPosition : ""}
         ${navigatorShape ? navigatorShape : ""}`}
       >
         {info && (
