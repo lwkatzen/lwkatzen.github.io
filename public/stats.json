@@ -71,9 +71,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-ee3e24c6f26b9b0d6fb8.js",
+      "app-525d1d088a4bb95311fc.js",
       "build-js-styles.css",
-      "app-ee3e24c6f26b9b0d6fb8.js.map",
+      "app-525d1d088a4bb95311fc.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
@@ -85,8 +85,8 @@
       "path---search-8bdffe325d744767bccf.js.map"
     ],
     "path---about": [
-      "path---about-5af30200ce4ade139e34.js",
-      "path---about-5af30200ce4ade139e34.js.map"
+      "path---about-ff8fb9f9685cf0850180.js",
+      "path---about-ff8fb9f9685cf0850180.js.map"
     ]
   }
 }

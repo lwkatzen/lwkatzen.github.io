@@ -2,4 +2,4 @@
 title: info
 ---
 
-I am a front-end web developer. I used to be a web designer too, but now I concentrate on the code.
+I am a mathematics students at the University of Utah. Next year, I will be working on Part III at the University of Cambridge.
