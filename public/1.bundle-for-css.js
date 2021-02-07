@@ -164,8 +164,7 @@ webpackJsonp([1],{
 	        { className: classes.wrapper },
 	        info && _react2.default.createElement(_InfoText2.default, { info: info }),
 	        _react2.default.createElement(_SocialIcons2.default, null),
-	        pages && _react2.default.createElement(_InfoMenu2.default, { pages: pages, linkOnClick: this.menulinkOnClick }),
-	        _react2.default.createElement(StackIcons, null)
+	        pages && _react2.default.createElement(_InfoMenu2.default, { pages: pages, linkOnClick: this.menulinkOnClick })
 	      )
 	    );
 	  };
