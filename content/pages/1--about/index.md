@@ -2,7 +2,7 @@
 title: About
 ---
 
-Senior at the University of Utah studying mathematics and (sometimes) physics. I am currently most interested in algebraic geometry and commutative algebra, but hope to learn more number theory in the near future.
+I am a senior at the University of Utah studying mathematics and (sometimes) physics. I am currently most interested in algebraic geometry and commutative algebra, but hope to learn more number theory in the near future.
 
 Next year, I will attend Part III in maths at the [University of Cambridge](https://www.maths.cam.ac.uk/postgrad/part-iii/prospective.html) with funding from the [Churchill Scholarship](https://churchillscholarship.org/). At Utah, I am completing my honors thesis in mathematics under Anurag Singh, and have previously benefited from the mentorship of Karl Schwede and Thomas Polstra.
 
