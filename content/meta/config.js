@@ -12,8 +12,8 @@ module.exports = {
   authorName: "greg lobinski",
   authorTwitterAccount: "greglobinski",
   // info
-  infoTitle: "isaac martin",
-  infoTitleNote: "personal site",
+  infoTitle: "Isaac Martin",
+  infoTitleNote: "Mathematics Student",
   // manifest.json
   manifestName: "Isaac Martin's Personal Website",
   manifestShortName: "Isaac Martin", // max 12 characters
