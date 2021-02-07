@@ -9,8 +9,8 @@
       "component---src-pages-index-js-aa9570313651ef926b5a.js.map"
     ],
     "path---": [
-      "path----abb8073a33f3d2848ae7.js",
-      "path----abb8073a33f3d2848ae7.js.map"
+      "path----cafd1e04d38183dc102f.js",
+      "path----cafd1e04d38183dc102f.js.map"
     ],
     "component---src-pages-contact-js": [
       "component---src-pages-contact-js-3f94ae393631493eda2b.js",
@@ -20,9 +20,13 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
+    "path---research": [
+      "path---research-b399d2e2cae37774a011.js",
+      "path---research-b399d2e2cae37774a011.js.map"
+    ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-135ebf339cd26086cb3c.js",
-      "component---src-layouts-index-js-135ebf339cd26086cb3c.js.map"
+      "component---src-layouts-index-js-a3444878158428fa8c96.js",
+      "component---src-layouts-index-js-a3444878158428fa8c96.js.map"
     ],
     "path---install-personal-blog-starter": [
       "path---install-personal-blog-starter-28c6f486d7c8dbf58895.js",
@@ -41,9 +45,9 @@
       "path---hello-world-ec262e59c44fa3c36575.js.map"
     ],
     "commons": [
-      "commons-81b2aa89eb2a40ff17f4.js",
+      "commons-507067db6b791455ecf9.js",
       "build-js-styles.css",
-      "commons-81b2aa89eb2a40ff17f4.js.map",
+      "commons-507067db6b791455ecf9.js.map",
       "build-js-styles.css.map"
     ],
     "path---success": [
@@ -66,14 +70,10 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---starters": [
-      "path---starters-ce774a6f0110d75571ee.js",
-      "path---starters-ce774a6f0110d75571ee.js.map"
-    ],
     "app": [
-      "app-6b39a5e572f92d5b502b.js",
+      "app-ee3e24c6f26b9b0d6fb8.js",
       "build-js-styles.css",
-      "app-6b39a5e572f92d5b502b.js.map",
+      "app-ee3e24c6f26b9b0d6fb8.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
@@ -85,8 +85,8 @@
       "path---search-8bdffe325d744767bccf.js.map"
     ],
     "path---about": [
-      "path---about-c657c7441a166f4352a5.js",
-      "path---about-c657c7441a166f4352a5.js.map"
+      "path---about-5af30200ce4ade139e34.js",
+      "path---about-5af30200ce4ade139e34.js.map"
     ]
   }
 }
