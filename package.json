@@ -15,7 +15,8 @@
     "lint-errors": "eslint src/**/*.{js,jsx} --quiet",
     "lint": "eslint src/**/*.{js,jsx}",
     "generate-app-icons": "sh ./scripts/generate-app-icons.sh",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public -b master"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -b master",
+    "start": "npm run develop"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.6",
