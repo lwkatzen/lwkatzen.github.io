@@ -1,9 +1,5 @@
 {
   "assetsByChunkName": {
-    "path---customize-personal-blog-starter": [
-      "path---customize-personal-blog-starter-abe524ce88d9815db07c.js",
-      "path---customize-personal-blog-starter-abe524ce88d9815db07c.js.map"
-    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-aa9570313651ef926b5a.js",
       "component---src-pages-index-js-aa9570313651ef926b5a.js.map"
@@ -13,8 +9,8 @@
       "path---blog-d61599ab16d08d9d1aab.js.map"
     ],
     "path---": [
-      "path----8de4cb4b6992aac5f9c3.js",
-      "path----8de4cb4b6992aac5f9c3.js.map"
+      "path----82bf0bd05a50f29f8fee.js",
+      "path----82bf0bd05a50f29f8fee.js.map"
     ],
     "component---src-pages-contact-js": [
       "component---src-pages-contact-js-3f94ae393631493eda2b.js",
@@ -29,16 +25,12 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---research": [
-      "path---research-5c23cb8a99e75b922255.js",
-      "path---research-5c23cb8a99e75b922255.js.map"
+      "path---research-763d650a606fb05521b5.js",
+      "path---research-763d650a606fb05521b5.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-a95b011a59b4a952011b.js",
-      "component---src-layouts-index-js-a95b011a59b4a952011b.js.map"
-    ],
-    "path---install-personal-blog-starter": [
-      "path---install-personal-blog-starter-7a565d11aed658795c74.js",
-      "path---install-personal-blog-starter-7a565d11aed658795c74.js.map"
+      "component---src-layouts-index-js-884f5cee5e14a711656a.js",
+      "component---src-layouts-index-js-884f5cee5e14a711656a.js.map"
     ],
     "path---index": [
       "path---index-1316629f2faca1dc06d8.js",
@@ -49,8 +41,8 @@
       "component---src-pages-search-js-056ffa479514758e65cf.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-127243cdb88bc12ae23b.js",
-      "path---hello-world-127243cdb88bc12ae23b.js.map"
+      "path---hello-world-ffe6b507248b208bf068.js",
+      "path---hello-world-ffe6b507248b208bf068.js.map"
     ],
     "path---photos": [
       "path---photos-98faa03f56a804f4da30.js",
@@ -78,18 +70,14 @@
       "component---src-templates-post-template-js-fcf32d7de3bf2eae0d33.js",
       "component---src-templates-post-template-js-fcf32d7de3bf2eae0d33.js.map"
     ],
-    "path---setup-algolia-account": [
-      "path---setup-algolia-account-419b1b9d1277b7deda98.js",
-      "path---setup-algolia-account-419b1b9d1277b7deda98.js.map"
-    ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-56bf08e4a5ad62fb1724.js",
+      "app-3841e726f34f6459cfae.js",
       "build-js-styles.css",
-      "app-56bf08e4a5ad62fb1724.js.map",
+      "app-3841e726f34f6459cfae.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
